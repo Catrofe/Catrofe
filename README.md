@@ -1,11 +1,12 @@
 ### Olá, eu sou o Christian, mais conhecido como Catrofe.
+###Hello, I'm Christian, more AKA(also known as) Catrofe.
 
 
-- 🔭 Atualmente trabalho em uma pastelaria.
-- 🌱 Atualmente estudo python 3  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-- 📫 Contato: christianlopes100@outlook.com
-- 😄 Pronouns: Ele/Dele
-- 😄 Curious: Prefiro ser chamado de Catrofe
+- 🔭 Currently working in pastry shop.
+- 🌱 Currently study Python 3  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+- 📫 Contact: christianlopes100@outlook.com
+- 😄 Pronouns: him/his
+- 😄 Curious: I'm prefer to be known as Catrofe
 
 <div align="center">
   <a href="https://github.com/rafaballerini">
