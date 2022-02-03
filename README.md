@@ -1,5 +1,5 @@
 ### Olá, eu sou o Christian, mais conhecido como Catrofe.
-###Hello, I'm Christian, more AKA(also known as) Catrofe.
+### Hello, I'm Christian, more AKA(also known as) Catrofe.
 
 
 - 🔭 Currently working in pastry shop.
