@@ -2,8 +2,8 @@
 ### Hello, I'm Christian, more AKA(also known as) Catrofe.
 
 
-- 🔭 Currently working in pastry shop.
-- 🌱 Currently study Python 3  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+- 🔭 Currently working in Brazilian fintech with Python, versions 2.7, 3.7 <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+- 📚 Studing: My job offered me a proposal to learn NodeJS <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"> <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
 - 📫 Contact: christianlopes100@outlook.com
 - 😄 Pronouns: him/his
 - 😄 Curious: I'm prefer to be known as Catrofe
