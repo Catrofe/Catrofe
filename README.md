@@ -3,7 +3,7 @@
 
 
 - 🔭 Currently working in Brazilian fintech with Python, versions 2.7, 3.7 <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-- 📚 Studing: My job offered me a proposal to learn NodeJS <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"> <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+- 📚 Studing: My job offered me a proposal to learn Java
 - 📫 Contact: christianlopes100@outlook.com
 - 😄 Pronouns: him/his
 - 😄 Curious: I'm prefer to be known as Catrofe
