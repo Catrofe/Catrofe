@@ -12,7 +12,7 @@
 - 🔭 I currently work in a consultancy that provides services to one of the largest insurance companies in Brazil.
 - 🔭 Technologies used:
      - Python 3.11 (FastApi, Flask)
-     - Java 8/11
+     - Java 8/11 (Spring boot)
 - 📚 Studing: Currently studying design patterns, clean code, SOLID. I have also been seeking general knowledge of the role of software engineer.
 - 📫 Contact: christianlopes100@outlook.com
 - 😄 Pronouns: him/his
