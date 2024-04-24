@@ -13,7 +13,7 @@
 - 🔭 Technologies used:
      - Python 3.11 (FastApi, Flask)
      - Java 8/11 (Spring boot)
-- 📜 AWS Certified Cloud Practitioner, AWS CLF-C02
+- 📃 AWS Certified Cloud Practitioner, AWS CLF-C02
 - 📚 Studing: Currently studying design patterns, clean code, SOLID. I have also been seeking general knowledge of the role of software engineer.
 - 📫 Contact: christianlopes100@outlook.com
 - 😄 Pronouns: him/his
